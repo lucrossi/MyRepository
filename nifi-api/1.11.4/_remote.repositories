@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 21 22:35:49 ART 2020
+nifi-api-1.11.4.jar>central=
+nifi-api-1.11.4.pom>central=
+nifi-api-1.11.4.jar>=
