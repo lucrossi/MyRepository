@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 21 22:09:14 ART 2020
+nifi-nar-maven-plugin-1.3.1.pom>gcs-maven-central-mirror=
+nifi-nar-maven-plugin-1.3.1.jar>gcs-maven-central-mirror=
